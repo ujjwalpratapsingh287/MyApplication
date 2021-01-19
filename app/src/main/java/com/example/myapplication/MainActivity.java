@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 //This is my test commit
+    //Added another test comment
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
